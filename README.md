@@ -1,7 +1,7 @@
 # Goal Manager
 
 <img src="https://live.staticflickr.com/65535/51300718479_10407ab7f4_o.png" alt="Goal Manager" width="700px">
-For demo, please visit at TODO
+For demo, please visit at https://goal-manager-sigma.vercel.app/
 
 ## Description
 
