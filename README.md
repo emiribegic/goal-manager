@@ -15,7 +15,7 @@ Goal Manager displays goals and relevant tasks added or modified on [Airtable](h
 -   React
 -   React Hooks
 -   Semantic UI
--   [Airtable API](https://airtable.com/)
+-   [Airtable](https://airtable.com/)
 
 ## Getting Started
 
@@ -59,7 +59,7 @@ $ npm install
 
 5. Set up [Airtable](https://airtable.com/)
 
-    1. Add a base
+    1. Add a base<br>
        Documentation: [Getting Started with Airtable](https://support.airtable.com/hc/en-us/sections/360003922433-Getting-started-with-Airtable)
 
     2. Install Airtable API
@@ -68,7 +68,8 @@ $ npm install
     npm i airtable
     ```
 
-    3. Then, go to the base you just created and check API documentation on HELP link at top right corner.
+    <br>
+    Documentation: [REST API](https://airtable.com/api)
 
 6. Configure environment variables using dotenv package
     1. Install the dotenv package
@@ -78,8 +79,8 @@ $ npm install
     2. Create a new `.env` file in the root of your project
     3. Fill the `.env` file with your API keys like this:
     ```bash
-    API_KEY=**************************
-    BASE_ID=**************************
+    REACT_APP_API_KEY=**************************
+    REACT_APP_BASE_ID=**************************
     ```
 7. Start the project
 
