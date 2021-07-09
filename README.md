@@ -62,14 +62,12 @@ $ npm install
     1. Add a base<br>
        Documentation: [Getting Started with Airtable](https://support.airtable.com/hc/en-us/sections/360003922433-Getting-started-with-Airtable)
 
-    2. Install Airtable API
+    2. Install Airtable API<br>
+       Documentation: [REST API](https://airtable.com/api)
 
     ```bash
     npm i airtable
     ```
-
-    <br>
-    Documentation: [REST API](https://airtable.com/api)
 
 6. Configure environment variables using dotenv package
     1. Install the dotenv package
